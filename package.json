@@ -83,6 +83,7 @@
   "dependencies": {
     "@types/node": "11.11.0",
     "aws-sdk": "^2.612.0",
+    "clean": "^4.0.2",
     "debug": "4.1.1",
     "deep-equal": "1.0.1",
     "hooks": "0.3.2",
